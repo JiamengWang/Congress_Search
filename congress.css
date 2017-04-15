@@ -1,0 +1,226 @@
+.mainform
+{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    left:0;
+    top: 0;
+    z-index: 9999;
+}
+
+.navtab{
+    display: inline-block;
+    background-color: white;
+    height: 40px;
+    padding-top: 15px;
+/*    position: fixed;*/
+}
+.navhead
+{
+    width:10vw;
+    padding-left: 2vw;
+/*    position: fixed;*/
+}
+.navend
+{
+    width:83vw;
+    padding-left: 30vw;
+/*    margin: 0px auto;*/
+/*    position: fixed;*/
+}
+
+.mynave
+{
+    background-color: white;
+}
+
+.leftcol
+{
+    display: inline-block;
+    background-color:#3C3C3C;
+    width:14vw;
+    max-width: 250px;
+    color: #C0C6C2;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 50px;
+    z-index: 9999;
+}
+
+.rightcol
+{
+    display: inline-block;
+    background-color:#F3F3F3;
+    height: auto;
+    width: 86vw;
+    margin-left: 14%;
+    margin-top: 50px;
+}
+.expand
+{
+    width: 100%;
+    margin-left:0px;
+/*    margin-top:*/
+}
+.leftItem
+{
+    font-size: 1.2em;
+    margin:35px 20px;
+    cursor: pointer;
+}
+
+.dispheader
+{
+
+    padding-left: 10px;
+    margin: 0px;
+}
+
+.myhr
+{
+    border-width: 2px;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 0px;
+    border-style: inset;
+}
+
+.centerlize
+{
+    padding-left:40%;
+}
+
+.table_icon
+{
+    width:30px;
+    height: 30px;
+}
+
+.table_photo
+{
+    width:35px;
+    height:42px;
+}
+
+.capitalize
+{
+    text-transform: capitalize;
+}
+
+.upper
+{
+    text-transform: uppercase;
+}
+
+.nopadd
+{
+    padding: 0px 0px;
+}
+
+
+.red
+{
+}
+
+.blue
+{
+    text-align:left;
+}
+
+.d_img
+{
+    width: 135px;
+    height: 167px;
+    text-align: center;
+    padding: 5px 5px;
+}
+
+.pdf
+{
+    padding: 0px 0px;
+    min-height: 600px;
+}
+
+.noboder
+{
+    border-color: transparent;
+}
+.favourite
+{
+    color:yellow;
+}
+.body
+{
+/*    width:100%;*/
+    overflow:auto;
+}
+
+.lefttext
+{
+    text-align: left;
+    font-weight: 300;
+    padding-left: 3px;
+}
+.piccenter
+{
+    text-align: center;
+    padding: 5px 5px;
+}
+.nopadding
+{
+    padding: 0px 0px;
+    padding-left: 5%;
+    padding-top: 26px;
+    text-align: left;
+}
+
+.rightside
+{
+    text-align: right;
+}
+
+.grey
+{
+    background-color:#F5F5F5;
+}
+.righttext
+{
+    text-align: right;
+}
+.notoppadd
+{
+    padding-top:0px;
+}
+.border
+{
+    border: 1px solid #E3E3E3;
+    border-radius: 3px;
+    max-width: 86vw;
+}
+.rightelem
+{
+    max-width:200px;
+    float: right;
+/*    text-align:right;*/
+/*    padding: 0px auto;*/
+}
+.textalignLeft
+{
+    text-align: left;
+}
+.detail
+{
+    font-size: 1.6em;
+}
+.socialpic
+{
+    width:40px;
+    height: 40px;
+}
+.uniwidth
+{
+/*    width:vw;*/
+    margin: 0px 2vw;
+}
